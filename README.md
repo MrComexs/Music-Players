@@ -52,6 +52,7 @@ wavpack uses APEv2
 6.03MB size
 GPL 3.0
 active devolvement
+
 |  Codec   |     | Image | Metadata |
 |:--------:|:---:|:-----:|:--------:|
 | flac 24  |  ✔  |   ✔   |    ✔     |
@@ -78,10 +79,45 @@ makes a `gramophone_favourite.m3u` in music folder. can't set to another locatio
 The `Filesystem` and `Folders` tabs aren't alphabetize
 there isn't a sort menu in `Filesystem` and `Folders`
 
+## Namida
+I'm personally not a fan of the animations and the theme 
+
+82.26MB
+Proprietary License but open source
+active devolvement
+
+can't play 32 bit flac but can view the metadata. can't read opus metadata but able to view the image. it can use read images off a wavpack file
+|  Codec   |     | Image | Metadata |
+|:--------:|:---:|:-----:|:--------:|
+| flac 24  |  ✔  |   ✔   |    ✔     |
+| flac 32  |  ✘  |   ✔   |    ✔     |
+|   mp3    |  ✔  |   ✔   |    ✔     |
+|   opus   |  ✔  |   ✔   |    ✘     |
+|  vorbis  |  ✔  |   ✔   |    ✔     |
+| wavpack  |  ✘  |   ✔   |    ✘     |
+|   wave   |  ✔  |   ✔   |    ✔     |
+#### Pros
+feature rich
+very animated
+unique theme
+youtube playback and downloader
+cross-fade support
+synced lyrics support
+video support
+built in equalizer
+list and grids support
+For you page
+automated playlist
+#### Cons
+artwork in the menus is low quality 
+very overwhelming
+animations are locked to the software
+
 ## Symphony
 5.72MB
 AGPL 3.0
 active but mostly one developer
+
 32 bit flac show up on in the app but skips after a few seconds
 |  Codec   |     | Image | Metadata |
 |:--------:|:---:|:-----:|:--------:|
@@ -109,6 +145,7 @@ no custom list and grids
 111MB size
 GPL 2.0
 very active devolvement
+
 |  Codec   |     | Image | Metadata |
 |:--------:|:---:|:-----:|:--------:|
 | flac 24  |  ✔  |   ✔   |    ✔     |
