@@ -63,21 +63,21 @@ active devolvement
 | wavpack  |  ✘  |   ✘   |    ✘     |
 |   wave   |  ✔  |   ✘   |    ✘     |
 #### Pros
-Basic codec support
-Very simple theme
-list and grids support (limited)
-Album Artist filter
-synced lyrics support
-metadata viewer
+- Basic codec support
+- Very simple theme
+- list and grids support (limited)
+- Album Artist filter
+- synced lyrics support
+- metadata viewer
 #### Cons
-bad blacklist (listed each sub folder)
-no custom library folder
-no #000000 background
-no rotating artwork support 
-no metadata editor
-makes a `gramophone_favourite.m3u` in music folder. can't set to another location
-The `Filesystem` and `Folders` tabs aren't alphabetize
-there isn't a sort menu in `Filesystem` and `Folders`
+- bad blacklist (listed each sub folder)
+- no custom library folder
+- no black theme
+- no rotating artwork support 
+- no metadata editor
+- makes a `gramophone_favourite.m3u` in music folder. can't set to another location
+- The `Filesystem` and `Folders` tabs aren't alphabetize
+- there isn't a sort menu in `Filesystem` and `Folders`
 
 ## Namida
 I'm personally not a fan of the animations and the theme 
@@ -97,21 +97,21 @@ can't play 32 bit flac but can view the metadata. can't read opus metadata but a
 | wavpack  |  ✘  |   ✔   |    ✘     |
 |   wave   |  ✔  |   ✔   |    ✔     |
 #### Pros
-feature rich
-very animated
-unique theme
-youtube playback and downloader
-cross-fade support
-synced lyrics support
-video support
-built in equalizer
-list and grids support
-For you page
-automated playlist
+- feature rich
+- very animated
+- unique theme
+- youtube playback and downloader
+- cross-fade support
+- synced lyrics support
+- video support
+- built in equalizer
+- list and grids support
+- For you page
+- automated playlist
 #### Cons
-artwork in the menus is low quality 
-very overwhelming
-animations are locked to the software
+- artwork in the menus is low quality 
+- very overwhelming
+- animations are locked to the software
 
 ## Symphony
 5.72MB
@@ -129,17 +129,17 @@ active but mostly one developer
 | wavpack  |  ✘  |   ✘   |    ✘     |
 |   wave   |  ✔  |   ✘   |    ✘     |
 #### Pros
-custom scaling
-black theme
-custom tabs
-Basic codec support
-synced lyrics support
-for you tab
-cross-fade support?
+- custom scaling
+- black theme
+- custom tabs
+- Basic codec support
+- synced lyrics support
+- for you tab
+- cross-fade support?
 #### Cons
-no metadata editor or viewer
-no rotating artwork support
-no custom list and grids
+- no metadata editor or viewer
+- no rotating artwork support
+- no custom list and grids
 
 ## VLC
 111MB size
@@ -156,13 +156,13 @@ very active devolvement
 | wavpack  |  ✔  |   ✔   |    ✔     |
 |   wave   |  ✔  |   ✔   |    ✔     |
 #### Pros
-Great codec support
-Black theme (doesn't work for me)
-video play
-list and grids support (limited)
+- Great codec support
+- Black theme (doesn't work for me)
+- video play
+- list and grids support (limited)
 #### Cons
-mostly a video player
-no rotating artwork support
-no metadata editor
-no cross-fade
+- mostly a video player
+- no rotating artwork support
+- no metadata editor
+- no cross-fade
 
