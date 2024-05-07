@@ -50,6 +50,11 @@ the metadata column is if it pickups any metadata field other than the image.
 flac, opus, and vorbis use the vorbis metadata schemes
 wav, and mp3 use ID3v2.3.0
 wavpack uses APEv2
+
+For research purposes I'm using two flac files but encoded with libFLAC 1.4.3 one 24 bit and another in 32 bit. I also have a 8 bit mp3 encoded with LAME3.100. I have two opus files with just with the file extension ogg and the other with opus (the only difference is the extension in the file name since they still use the same container). a vorbis ogg file encoded with libogg 1.3.5. A 32 bit float point wav file. And finaly a 32 bit float point wavpack, encoded with wavpack 5.7.0.
+
+all tracks have the same 3000x3000 JPEG image but the two flac files have a extra image to test if the player supports rotating artwork feature
+
 ## Gramophone
 6.03MB size
 GPL 3.0
