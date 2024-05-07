@@ -5,7 +5,9 @@ I will appreciate you feedback about this article. There is going to be a lot of
 - [Gramophone](#gramophone)
 - [Musicolet](#musicolet)
 - [Poweramp](#poweramp)
+- [Namida](#namida)
 - [Samsung Music](#samsung-music)
+- [Symphony](#symphony)
 - [VLC](#vlc)
 
 ## about me
@@ -62,14 +64,14 @@ active devolvement
 |  vorbis  |  ✔  |   ✔   |    ✔     |
 | wavpack  |  ✘  |   ✘   |    ✘     |
 |   wave   |  ✔  |   ✘   |    ✘     |
-#### Pros
+### Pros
 - Basic codec support
 - Very simple theme
 - list and grids support (limited)
 - Album Artist filter
 - synced lyrics support
 - metadata viewer
-#### Cons
+### Cons
 - bad blacklist (listed each sub folder)
 - no custom library folder
 - no black theme
@@ -78,6 +80,14 @@ active devolvement
 - makes a `gramophone_favourite.m3u` in music folder. can't set to another location
 - The `Filesystem` and `Folders` tabs aren't alphabetize
 - there isn't a sort menu in `Filesystem` and `Folders`
+
+## Musicolet
+### Pros
+### Cons
+
+## Poweramp
+### Pros
+### Cons
 
 ## Namida
 I'm personally not a fan of the animations and the theme 
@@ -96,7 +106,7 @@ can't play 32 bit flac but can view the metadata. can't read opus metadata but a
 |  vorbis  |  ✔  |   ✔   |    ✔     |
 | wavpack  |  ✘  |   ✔   |    ✘     |
 |   wave   |  ✔  |   ✔   |    ✔     |
-#### Pros
+### Pros
 - feature rich
 - very animated
 - unique theme
@@ -108,7 +118,7 @@ can't play 32 bit flac but can view the metadata. can't read opus metadata but a
 - list and grids support
 - For you page
 - automated playlist
-#### Cons
+### Cons
 - artwork in the menus is low quality 
 - very overwhelming
 - animations are locked to the software
@@ -128,7 +138,7 @@ active but mostly one developer
 |  vorbis  |  ✔  |   ✔   |    ✔     |
 | wavpack  |  ✘  |   ✘   |    ✘     |
 |   wave   |  ✔  |   ✘   |    ✘     |
-#### Pros
+### Pros
 - custom scaling
 - black theme
 - custom tabs
@@ -136,7 +146,7 @@ active but mostly one developer
 - synced lyrics support
 - for you tab
 - cross-fade support?
-#### Cons
+### Cons
 - no metadata editor or viewer
 - no rotating artwork support
 - no custom list and grids
@@ -155,12 +165,12 @@ very active devolvement
 |  vorbis  |  ✔  |   ✔   |    ✔     |
 | wavpack  |  ✔  |   ✔   |    ✔     |
 |   wave   |  ✔  |   ✔   |    ✔     |
-#### Pros
+### Pros
 - Great codec support
 - Black theme (doesn't work for me)
 - video play
 - list and grids support (limited)
-#### Cons
+### Cons
 - mostly a video player
 - no rotating artwork support
 - no metadata editor
