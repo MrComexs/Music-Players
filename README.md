@@ -11,7 +11,7 @@ I will appreciate you feedback about this article. There is going to be a lot of
 - [VLC](#vlc)
 
 ## about me
-Hi I'm Comexs and I mostly listen to music on my computer but on occasion I listen on my android phone. Most of my music library consists of 16 bit flac with some 24 bit flac as well as some other codecs like mp3 and 32 bit float wavpack. At the time of writing, I have 550 tracks in my library. I would perfer to have opus over mp3 but I don't have any opus track in my library because it would be a fruitless endeavor to re-encode a mp3 to opus. I'm currently looking into inserting mp3 into ogg containers.
+Hi I'm Comexs and I mostly listen to music on my computer but on occasion I listen on my android phone. Most of my music library consists of 16 bit flac with some 24 bit flac as well as some other codecs like mp3, 32 bit float wavpack and one opus track ripped from youtube. At the time of writing, I have 550 tracks in my library. I would perfer to have opus over mp3 but most artist would rather upload a mp3 than any other lossy codec. I'm currently looking into inserting mp3 into ogg containers.
 
 I use the official cli encoder for example flac and wavpack. I used to ffmpeg for this but found better results though very marginal when using own respective codec's cli tool.
 
