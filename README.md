@@ -25,7 +25,7 @@ My music player of choice on tablet is VLC only because of the great support for
 On windows I'm currently use MusicBee but I'm starting to replace it with foobar2000 when I feel more comfortable with it and on Linux which is where I spend most of my time but I rarely listen to music; I mainly use Harmonoid unless I want to listen to a wavpack file than I have to use mpv since Harmonoid isn't pickup any of my wavpack files.
 
 ### How I format metadata in my music library
-#### Which metadata editor do I use?
+#### Which metadata editor do I use
 I use a mixture of three apps and some cli tools to edit the metadata of my music library.
 - kid3
 - MusicBrainz Picard
@@ -56,9 +56,15 @@ For research purposes I'm using two flac files but encoded with libFLAC 1.4.3 on
 all tracks have the same 3000x3000 JPEG image but the two flac files have a extra image to test if the player supports rotating artwork feature
 
 ## Gramophone
-6.03MB size
-GPL 3.0
-active devolvement
+
+In active devolvement
+
+|    Field     |         |
+|:------------:|:-------:|
+|  **Price**   |   FOSS  |
+| **App Size** | 6.03 MB |
+| **License**  |  GPL v3 |
+
 
 |  Codec   |     | Image | Metadata |
 |:--------:|:---:|:-----:|:--------:|
@@ -91,15 +97,63 @@ active devolvement
 ### Cons
 
 ## Poweramp
+
+
+There is a trial for Poweramp but I think when the trial epires you can click off the window and it well temorarily remove the expiration prop.
+|    Field     |        |
+|:------------:|:------:|
+|  **Price**   | $7.99  |
+| **App Size** | 109 MB |
+| **License**  |  EULA  |
+
+When I use the builtin metadata editor or foobar2000 metadata editor, Poweramp is able to read the Album Artist field but when I fill the Album Artist field with any other editor that I [listed before](#which-metadata-editor-do-i-use), it won't be read.
+|  Codec   |     | Image | Metadata |
+|:--------:|:---:|:-----:|:--------:|
+| flac 24  |  ✔  |   ✔   |    ✔     |
+| flac 32  |  ✔  |   ✔   |    ✔     |
+|   mp3    |  ✔  |   ✔   |    ✔     |
+|   opus   |  ✔  |   ✔   |    ✔     |
+|  vorbis  |  ✔  |   ✔   |    ✔     |
+| wavpack  |  ✔  |   ✔   |    ✔     |
+|   wave   |  ✔  |   ✔   |    ✔     |
+
+I don't test JPEG XL
+| Format |     |
+|:------:|:---:|
+|  JPEG  |  ✔  |
+|  webp  |  ✔  |
+|  avif  |  ✔  |
 ### Pros
+- Lots of features
+- Great codec support
+- Great image formats support
+- List and grids
+- Great Equalizer
+- Third party themes support
+- Crossfade, Fade, Gapless
+- First party Visualization and Third party support
+- Custom lock screen
+- Most Played playlist
+- Organized menu
+- Android auto
 ### Cons
+- Paid
+- Not FOSS or OSS
+- No black theme
+- Overwhelming
+- No Car mode
+- No oled friendly mode
 
 ## Namida
-I'm personally not a fan of the animations and the theme 
+I'm personally not a fan of the animations and the theme.
 
-82.26MB
-Proprietary License but open source
-active devolvement
+Namida is open source software but has a proprietary License. There is active devolvement.
+
+|    Field     |       |
+|:------------:|:-----:|
+|  **Price**   |  OSS  |
+| **App Size** | 82.26 |
+| **License**  | EULA  |
 
 can't play 32 bit flac but can view the metadata. can't read opus metadata but able to view the image. it can use read images off a wavpack file
 |  Codec   |     | Image | Metadata |
@@ -129,9 +183,13 @@ can't play 32 bit flac but can view the metadata. can't read opus metadata but a
 - animations are locked to the software
 
 ## Symphony
-5.72MB
-AGPL 3.0
 active but mostly one developer
+
+|    Field     |         |
+|:------------:|:-------:|
+|  **Price**   |  FOSS   |
+| **App Size** | 5.72 MB |
+| **License**  | AGPL v3 |
 
 32 bit flac show up on in the app but skips after a few seconds
 |  Codec   |     | Image | Metadata |
@@ -157,9 +215,14 @@ active but mostly one developer
 - no custom list and grids
 
 ## VLC
-111MB size
-GPL 2.0
-very active devolvement
+In very active devolvement. 
+
+|    Field     |        |
+|:------------:|:------:|
+|  **Price**   |  FOSS  |
+| **App Size** | 111 MB |
+| **License**  | GPL v2 |
+
 
 |  Codec   |     | Image | Metadata |
 |:--------:|:---:|:-----:|:--------:|
