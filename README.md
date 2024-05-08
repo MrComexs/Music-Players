@@ -93,13 +93,55 @@ In active devolvement
 - there isn't a sort menu in `Filesystem` and `Folders`
 
 ## Musicolet
+
+|    Field     |          |
+|:------------:|:--------:|
+|  **Price**   |   Free   |
+| **App Size** | 38.68 MB |
+| **License**  |   EULA   |
+
+Can readn't WavPack Album Artist. Note this is with any of the editor. 
+|  Codec   |     | Image | Metadata |
+|:--------:|:---:|:-----:|:--------:|
+| flac 24  |  ✔  |   ✔   |    ✔     |
+| flac 32  |  ✔  |   ✔   |    ✔     |
+|   mp3    |  ✔  |   ✔   |    ✔     |
+|   opus   |  ✔  |   ✔   |    ✔     |
+|  vorbis  |  ✔  |   ✔   |    ✔     |
+| wavpack  |  ✔  |   ✔   |    ✔     |
+|   wave   |  ✔  |   ✔   |    ✔     |
+
+need to spend more time on the text below.
+They all supported on flac but when its a wavpack file then it can't read avif images not sure about webp. opus might also have problems with avif as well.
+| Format |     |
+|:------:|:---:|
+|  JPEG  |  ✔  |
+|  webp  |  ✔  |
+|  avif  |  ✔  |
 ### Pros
+- Custom Lock Screen
+- Equalizer
+- Multiple queues
+- blacklist
+- Feature rich
+- Audio cutter
+- Metadata editor (limited codec support)
+- slight customability
+- list Album Artist
+- Synced lyrics
+- File status (times played)
+- File Tracker 
 ### Cons
+- Lack of themes
+- Paid features
+    - Crossfade
+    - Chromecast, Screencast
+    - Most Played
+    - Volume Normalization
 
 ## Poweramp
 
-
-There is a trial for Poweramp but I think when the trial epires you can click off the window and it well temorarily remove the expiration prop.
+There is a trial for Poweramp but I think when the trial epires you can click off the window and it well temporarily remove the expiration prop.
 |    Field     |        |
 |:------------:|:------:|
 |  **Price**   | $7.99  |
